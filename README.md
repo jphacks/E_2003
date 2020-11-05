@@ -55,7 +55,7 @@ https://apps.apple.com/us/app/arert/id1512900814
 #### API・データ
 * 「地点別浸水シミュレーション検索システム」・・・国土地理院が提供しているAPI。JSON形式で取得している。
 
-https://suiboumap.gsi.go.jp/pdf/Data-riyo_manual.pdf
+　　https://suiboumap.gsi.go.jp/pdf/Data-riyo_manual.pdf
 
 #### フレームワーク・ライブラリ・モジュール
 * Unity 
