@@ -1,6 +1,6 @@
 # ARERT
 
-[![Product Name](スクリーンショット 2020-11-06 13.52.05.png)](https://drive.google.com/file/d/10FMeqnQPj6eFrIzPo3nLl6a886I6zP-z/view?usp=sharing)
+[![Product Name](スクリーンショット 2020-11-06 13.52.05.png)]https://youtu.be/2FSe0rttzAs)
 
 ## 製品概要
 ### 防災 ✖️ Tech
