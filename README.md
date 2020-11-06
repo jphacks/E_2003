@@ -1,6 +1,6 @@
 # ARERT
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2020/09/JPHACKS2020_ogp.jpg)](https://drive.google.com/file/d/10FMeqnQPj6eFrIzPo3nLl6a886I6zP-z/view?usp=sharing)
+[![Product Name](https://drive.google.com/file/d/10FMeqnQPj6eFrIzPo3nLl6a886I6zP-z/view?usp=sharing)
 
 ## 製品概要
 ### 防災 ✖️ Tech
