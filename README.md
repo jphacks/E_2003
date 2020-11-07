@@ -1,6 +1,6 @@
 # ARERT
 
-[![Product Name](samune_v2.png)](https://drive.google.com/file/d/1rT0w-jNV-Sbj2dOTT2eChsUPFTaGHmiP/view?usp=sharing)
+[![Product Name](samune_v2.png)](https://drive.google.com/file/d/1irgrDrTUR8SVyqyi987w7ja8U87meCf3/view?usp=sharing)
 
 ## 製品概要
 ### 防災 ✖️ Tech
